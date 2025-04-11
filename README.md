@@ -28,19 +28,26 @@ Statistiques : Calculer et afficher le taux d'absence par classe, aidant ainsi �
 
  Frontend :
  
-HTML5 – Structure des pages.
-CSS3 – Mise en forme et style.
-JavaScript – Logique côté client et interactions dynamiques.
-AJAX – Communication asynchrone avec le serveur pour la mise à jour instantanée des données (quantités, mouvements, etc.).
-Chart.js – Bibliothèque JavaScript pour l’affichage de graphiques statistiques (évolution du stock).
+HTML/CSS pour la structure et le style des pages.
+
+JavaScript avec AJAX pour l'enregistrement dynamique des absences.
+
+Chart.js pour afficher les statistiques sous forme de graphiques.
 
 Backend :
 
 Java – Langage principal pour la logique métier.
+
 Hibernate (ORM) – Pour la gestion de la persistance des données et les interactions avec la base de données de manière orientée objet.
+
 JPA (Java Persistence API) – Interface standard pour travailler avec Hibernate.
+
 JDBC (optionnel) – Utilisé en complément si nécessaire pour des requêtes spécifiques.
 
 Base de données :
 
 MySQL – Système de gestion de base de données relationnelle pour stocker les produits, catégories, utilisateurs et mouvements de stock.
+
+Diagramme de classe 
+
+

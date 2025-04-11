@@ -52,5 +52,8 @@ Diagramme de classe
 
 ![Image](https://github.com/user-attachments/assets/6e0ad84f-a544-4eab-a10d-91e18c89892f)
 
+Modèle conceptuel de la base généré
+
+![Image](https://github.com/user-attachments/assets/b81f8288-3075-4512-a61f-7b14a4c28da6)
 
 

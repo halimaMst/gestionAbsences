@@ -50,26 +50,11 @@ MySQL – Système de gestion de base de données relationnelle pour stocker les
 
 Diagramme de classe 
 
-![Image](https://github.com/user-attachments/assets/6e0ad84f-a544-4eab-a10d-91e18c89892f)
+
 
 Modèle conceptuel de la base généré
 
-![Image](https://github.com/user-attachments/assets/b81f8288-3075-4512-a61f-7b14a4c28da6)
 
-![Image](https://github.com/user-attachments/assets/6560b5c8-88db-41b8-abae-abc289654328)
 
-![Image](https://github.com/user-attachments/assets/822f916a-78aa-45ff-871c-003b18873dca)
-
-![Image](https://github.com/user-attachments/assets/af4d1711-6eff-43c2-b732-f8835205c429)
-
-![Image](https://github.com/user-attachments/assets/6acf6234-c7bf-4dd8-9f03-f13090978cf3)
-
-![Image](https://github.com/user-attachments/assets/5b2a3b61-9ebd-45a0-9949-5723c4e3f0a2)
-
-![Image](https://github.com/user-attachments/assets/3d45f24e-4c50-48e0-a13b-6e78e0a22c99)
-
-![Image](https://github.com/user-attachments/assets/d4a5b303-b83b-4cc2-97b1-45933bd614c3)
-
-![Image](https://github.com/user-attachments/assets/466e9b33-4772-413b-99d0-1b2af86e2f73)
 
 

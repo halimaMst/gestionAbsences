@@ -50,7 +50,7 @@ MySQL – Système de gestion de base de données relationnelle pour stocker les
 
 Diagramme de classe 
 
-
+![Image](https://github.com/user-attachments/assets/f392fa6f-eb79-49f7-b0b3-6efed0035c83)
 
 Modèle conceptuel de la base généré
 

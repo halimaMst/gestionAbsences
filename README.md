@@ -1,8 +1,8 @@
-1 Contexte
+ 🌐 1 Contexte
 
 L'application de gestion des absences est conçue pour aider les établissements scolaires à suivre et gérer efficacement les absences des élèves. Ce système est essentiel pour identifier les élèves qui ont des difficultés à assister régulièrement aux cours et pour prendre des mesures appropriées pour améliorer leur fréquentation scolaire.
 
-2 Problématique
+ ❗️2 Problématique
 
 Le problème principal auquel ce projet répond est l'absentéisme scolaire, qui peut avoir des conséquences négatives sur la réussite académique et sociale des élèves. Actuellement, de nombreux établissements utilisent des méthodes manuelles pour suivre les absences, ce qui peut être chronophage et sujet à erreurs.
 
@@ -14,7 +14,7 @@ Manque de Statistiques : Il est difficile d'obtenir des statistiques précises s
 
 Enregistrement Manuel : L'enregistrement manuel des absences peut être fastidieux et sujet à erreurs.
 
-3 Objectifs
+ 🎯3 Objectifs
 
 Planification des Séances : Permettre aux enseignants de planifier leurs séances et de les afficher dans un calendrier.
 
@@ -24,35 +24,22 @@ Suivi des Absences : Afficher les absences pour chaque élève, permettant ainsi
 
 Statistiques : Calculer et afficher le taux d'absence par classe, aidant ainsi à identifier les classes qui nécessitent un soutien particulier.
 
-4 Technologies utilisées :
 
- Frontend :
- 
-HTML/CSS pour la structure et le style des pages.
+Technologies Utilisées 🛠
+JavaWeb 
+MySQL
+AJAX pour les validations en temps réel
+Chart.js pour les statistiques par département
 
-JavaScript avec AJAX pour l'enregistrement dynamique des absences.
-
-Chart.js pour afficher les statistiques sous forme de graphiques.
-
-Backend :
-
-Java – Langage principal pour la logique métier.
-
-Hibernate (ORM) – Pour la gestion de la persistance des données et les interactions avec la base de données de manière orientée objet.
-
-JPA (Java Persistence API) – Interface standard pour travailler avec Hibernate.
-
-JDBC (optionnel) – Utilisé en complément si nécessaire pour des requêtes spécifiques.
-
-Base de données :
-
-MySQL – Système de gestion de base de données relationnelle pour stocker les produits, catégories, utilisateurs et mouvements de stock.
-
-Diagramme de classe 
+📊 Diagramme de classes
 
 ![Image](https://github.com/user-attachments/assets/f392fa6f-eb79-49f7-b0b3-6efed0035c83)
 
-Modèle conceptuel de la base généré
+🎯 Modèle conceptuel de la base généré
+
+![Image](https://github.com/user-attachments/assets/27b8f2e8-62f6-4544-a2ab-1e2f19c4390b)
+
+🎯 Exécution des tests dans la console
 
 ![Image](https://github.com/user-attachments/assets/31aeaf3d-96ee-4c41-a96b-3642ba47c1b7)
 

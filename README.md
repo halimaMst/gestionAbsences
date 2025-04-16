@@ -41,6 +41,28 @@ Chart.js pour les statistiques par département
 
 🎯 Exécution des tests dans la console
 
+![Image](https://github.com/user-attachments/assets/937aa44f-6e68-4be1-bb15-bdd15c01a02d)
 
+![Image](https://github.com/user-attachments/assets/b9a7481f-eafb-4330-8052-eb078e3b2c87)
+
+![Image](https://github.com/user-attachments/assets/4ddd34bf-4907-45b9-af52-da48174e869b)
+
+![Image](https://github.com/user-attachments/assets/c1132c77-42bb-44de-b9a4-5bebc812e937)
+
+![Image](https://github.com/user-attachments/assets/eab80b9b-c2e3-49cc-a5ae-4bd8af6b7699)
+
+![Image](https://github.com/user-attachments/assets/aa95f7dd-9927-48b9-b050-7c2af0bbc68e)
+
+![Image](https://github.com/user-attachments/assets/493c8154-1a8d-4af7-8751-1e8706238ce6)
+
+![Image](https://github.com/user-attachments/assets/3700daeb-4f87-439b-bd0c-fab739d9ee63)
+
+![Image](https://github.com/user-attachments/assets/3c9a33ef-ee00-4dd3-a229-85c322b76729)
+
+![Image](https://github.com/user-attachments/assets/b9ce0cd5-0150-4d7b-a597-dd481c04a4a6)
+
+![Image](https://github.com/user-attachments/assets/49a02341-ce1b-4c7a-9297-40048b3b4521)
+
+![Image](https://github.com/user-attachments/assets/f0e62235-1980-407c-912f-bc50cf6018f1)
 
 

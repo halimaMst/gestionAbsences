@@ -3,19 +3,23 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package dao;
+package services;
+
+import java.util.List;
 
 /**
  *
  * @author adhmin
  */
-import entities.SeanceCours;
+public interface IService<T> {
 
+    boolean create(T o);
 
-public class SeanceCoursDao extends AbstractDao<SeanceCours> {
+    boolean update(T o);
 
-    public SeanceCoursDao() {
-        super(SeanceCours.class);
-    }
+    boolean delete(T o);
 
+    List<T> findAll();
+
+    T findById(int id);
 }

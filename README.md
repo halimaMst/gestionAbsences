@@ -39,7 +39,6 @@ Chart.js pour les statistiques par département
 
 ![Image](https://github.com/user-attachments/assets/24883e31-0746-4194-834b-5e24402c2333)
 
-🎯 Exécution des tests dans la console
 ![Image](https://github.com/user-attachments/assets/3e910850-e08b-4498-877f-7efa79211249)
 
 ![Image](https://github.com/user-attachments/assets/156c3f1a-fcc4-4724-b2b5-341abe2c083d)

@@ -40,29 +40,31 @@ Chart.js pour les statistiques par département
 ![Image](https://github.com/user-attachments/assets/24883e31-0746-4194-834b-5e24402c2333)
 
 🎯 Exécution des tests dans la console
+![Image](https://github.com/user-attachments/assets/3e910850-e08b-4498-877f-7efa79211249)
 
-![Image](https://github.com/user-attachments/assets/937aa44f-6e68-4be1-bb15-bdd15c01a02d)
+![Image](https://github.com/user-attachments/assets/156c3f1a-fcc4-4724-b2b5-341abe2c083d)
 
-![Image](https://github.com/user-attachments/assets/b9a7481f-eafb-4330-8052-eb078e3b2c87)
+![Image](https://github.com/user-attachments/assets/0dc2702f-3b3f-45f2-9b53-2bae0a655d7c)
 
-![Image](https://github.com/user-attachments/assets/4ddd34bf-4907-45b9-af52-da48174e869b)
+![Image](https://github.com/user-attachments/assets/93775333-599b-4f6b-9348-09e093991e2a)
 
-![Image](https://github.com/user-attachments/assets/c1132c77-42bb-44de-b9a4-5bebc812e937)
+![Image](https://github.com/user-attachments/assets/c4d237c2-4fad-4220-92be-9294447d1790)
 
-![Image](https://github.com/user-attachments/assets/eab80b9b-c2e3-49cc-a5ae-4bd8af6b7699)
+![Image](https://github.com/user-attachments/assets/50e78678-8820-41a0-afa5-6b56d1e0fea3)
 
-![Image](https://github.com/user-attachments/assets/aa95f7dd-9927-48b9-b050-7c2af0bbc68e)
+![Image](https://github.com/user-attachments/assets/53bbe4c6-b452-4fd4-9a1e-be9ef36ecbf4)
 
-![Image](https://github.com/user-attachments/assets/493c8154-1a8d-4af7-8751-1e8706238ce6)
+![Image](https://github.com/user-attachments/assets/5015f949-27db-45c7-9b4c-a3070237c498)
 
-![Image](https://github.com/user-attachments/assets/3700daeb-4f87-439b-bd0c-fab739d9ee63)
+![Image](https://github.com/user-attachments/assets/4b8d6d67-abbb-440a-9f5f-1f80a909e01e)
 
-![Image](https://github.com/user-attachments/assets/3c9a33ef-ee00-4dd3-a229-85c322b76729)
+![Image](https://github.com/user-attachments/assets/3b024bf0-07eb-4f73-9f08-74c8ae9b8a94)
 
-![Image](https://github.com/user-attachments/assets/b9ce0cd5-0150-4d7b-a597-dd481c04a4a6)
+![Image](https://github.com/user-attachments/assets/da0d9cbf-e523-470c-9f86-24a5bdbba0ec)
 
-![Image](https://github.com/user-attachments/assets/49a02341-ce1b-4c7a-9297-40048b3b4521)
 
-![Image](https://github.com/user-attachments/assets/f0e62235-1980-407c-912f-bc50cf6018f1)
+Vidéo Démonstrative
+
+
 
 [https://github.com/user-attachments/assets/c5ad17a5-6745-409e-9ebc-4bfc01b166d6](https://github.com/user-attachments/assets/f26b7432-bc48-41f7-855d-c2c43d746d5d)

@@ -37,7 +37,7 @@ Chart.js pour les statistiques par département
 
 🎯 Modèle conceptuel de la base généré
 
-![Image](https://github.com/user-attachments/assets/e1090c39-c842-42d0-986e-b77bc53308f9)
+![Image](https://github.com/user-attachments/assets/24883e31-0746-4194-834b-5e24402c2333)
 
 🎯 Exécution des tests dans la console
 

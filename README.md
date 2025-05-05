@@ -65,4 +65,4 @@ Chart.js pour les statistiques par département
 
 ![Image](https://github.com/user-attachments/assets/f0e62235-1980-407c-912f-bc50cf6018f1)
 
-
+https://github.com/user-attachments/assets/c5ad17a5-6745-409e-9ebc-4bfc01b166d6

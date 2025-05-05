@@ -33,7 +33,7 @@ Chart.js pour les statistiques par département
 
 📊 Diagramme de classes
 
-![Image](https://github.com/user-attachments/assets/a7f53bd1-77d9-440d-bcc6-bf4cdc04cf6a)
+![Image](https://github.com/user-attachments/assets/1b105b0d-dbe6-4d5c-b874-d9a1d1ee4899)
 
 🎯 Modèle conceptuel de la base généré
 
